@@ -10,7 +10,7 @@ Este laboratório é utlizando o [Copilot](https://copilot.microsoft.com/).
 
 ## Como chegar lá?
 
-Acesse a ferramenta[Copilot](https://copilot.microsoft.com/), e logue sua conta! É necessário para ativar o DALL-E.
+Acesse a ferramenta [Copilot](https://copilot.microsoft.com/), e logue sua conta! É necessário para ativar o DALL-E.
 
 Escolha uma imagem com texto, e veremos a magica acontecer!
 
@@ -25,7 +25,9 @@ Os Resultados foram incriveis. O appem python para extrarmos sem usar o copilot 
 Veja a imagem abaixo:
 ![](output\entrada1_resposta_!.png)
 
+
 Se fez necessário refazer a entrada para extrair o texto da imagem no proprio chat.
+
 
 ![](output\2_resposta.png)
 
