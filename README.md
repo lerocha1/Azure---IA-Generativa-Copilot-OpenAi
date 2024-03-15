@@ -25,7 +25,7 @@ Os Resultados foram incriveis. O appem python para extrarmos sem usar o copilot 
 Veja a imagem abaixo:
 ![](output\entrada1_resposta_!.png)
 
-SE fez necessário refazer a entrada para extrair o texto da imagem no proprio chat.
+Se fez necessário refazer a entrada para extrair o texto da imagem no proprio chat.
 
 ![](output\2_resposta.png)
 
